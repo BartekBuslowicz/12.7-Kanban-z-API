@@ -1,0 +1,25 @@
+h1 {
+  text-align: center; }
+
+.board {
+  text-align: center;
+  margin: 20px; }
+
+.column-card-list {
+  min-height: 200px; }
+
+.column {
+  display: inline-block;
+  width: 15%;
+  text-align: center;
+  padding: 20px;
+  margin: 20px;
+  float: left; }
+
+.card {
+  list-style-type: none;
+  width: 200px;
+  border: 1px solid blue;
+  float: left; }
+
+/*# sourceMappingURL=style.css.map */
